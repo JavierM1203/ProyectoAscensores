@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 public class Ascensor extends Thread {
 
     Controlador c;
-    int id;
+    int id; // id del ascensor para diferenciarlos en caso de que haya mas que uno
     int pisoActual;
     int capacidad;
     int pasajeros;
