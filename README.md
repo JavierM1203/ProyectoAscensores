@@ -1,8 +1,8 @@
 # ProyectoAscensores
 
 
-El paquete correcto es el que esta en la ruta ProyectoAscensores/src/main/java/Entregafinal2
-El ascensor toma un solo pedido a la vez. -Solved
-El ascensor no evalua si hay solicitudes mientras se esta moviendo. -Solved
-No se evalua ni la cantidad de personas ni el peso. - Partially solved. Evalua cantidad de personas. Suficiente segun profesor
-La propiedad destinossSolicitados debería estar en el ascensor y no en el controlador. Genera problemas al tener más de un ascensor. Se debe rediseñar el codigo de la clase Controlador en los métodos atenderPedido y generarPedido para poder cambiar la propiedad al ascensor. -Codigo rediseñado. Problema sigue presente.
+El paquete correcto es el que esta en la ruta ProyectoAscensores/src/main/java/Entregafinal2  
+El ascensor toma un solo pedido a la vez. -Solved  
+El ascensor no evalua si hay solicitudes mientras se esta moviendo. -Solved  
+No se evalua ni la cantidad de personas ni el peso. - Partially solved. Evalua cantidad de personas. Suficiente segun profesor  
+La propiedad destinossSolicitados debería estar en el ascensor y no en el controlador. Genera problemas al tener más de un ascensor. Se debe rediseñar el codigo de la clase Controlador en los métodos atenderPedido y generarPedido para poder cambiar la propiedad al ascensor. -Codigo rediseñado. Problema sigue presente.  
